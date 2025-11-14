@@ -43,7 +43,7 @@ coming-soon-template/
 1. **Clone or Download** this repository:
 
    ```bash
-   git clone https://github.com/neoslabx/coming-soon.git
+   git clone https://github.com/sqoove/coming-soon.git
    ```
 2. **Open `index.html`** in your browser to preview.
 3. **Customize your content**:
